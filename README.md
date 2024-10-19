@@ -10,7 +10,7 @@ dev fee 1%
 hiveos :
 
 ```
-https://github.com/RacerCommunity/wala-miner/releases/download/V0.3.0-gpu/wala-miner-0.3.0.tar.gz
+https://github.com/RacerCommunity/wala-miner/releases/download/v0.3.1/wala-miner-0.3.1.tar.gz
 ```
 
 ![hiveos](https://github.com/user-attachments/assets/aa1f9d6c-6b11-407a-816d-884a2931d513)
