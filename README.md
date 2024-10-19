@@ -1,6 +1,6 @@
 # wala-miner
 
-dev fee 2%
+dev fee 1%
 
 ```
 .\wala-miner.exe --waglaylad-address=$CUSTOM_URL --mining-address $CUSTOM_TEMPLATE
